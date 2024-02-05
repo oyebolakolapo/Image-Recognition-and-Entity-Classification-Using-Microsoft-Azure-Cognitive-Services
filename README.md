@@ -1,0 +1,1 @@
+# Parsing_Image_to_Text_and_Entity_Classification_using_MS_Azure_Cognitive_Services.
